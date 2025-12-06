@@ -1,0 +1,226 @@
+{
+    "EXPERIMENT0": {
+        "KNN": {
+            "orig_acc": 0.54322,
+            "fsgm_acc": 0.30364,
+            "pgd_acc": 0.36986
+        },
+        "DT": {
+            "orig_acc": 0.35226,
+            "fsgm_acc": 0.2078,
+            "pgd_acc": 0.2338
+        },
+        "LSVM": {
+            "orig_acc": 0.42032,
+            "fsgm_acc": 0.2742,
+            "pgd_acc": 0.32458
+        },
+        "KSVM": {
+            "orig_acc": 0.74328,
+            "fsgm_acc": 0.30958,
+            "pgd_acc": 0.4324
+        },
+        "DATE": "2025-11-22 22:35:22.017731",
+        "DATASETS": [
+            "../Datasets/cifar10-orig-hog-o6-c8-b1.npz",
+            "../Datasets/cifar10-fsgm-hog-eps4-o6-c8-b1.npz",
+            "../Datasets/cifar10-pgd-hog-eps4-o6-c8-b1.npz"
+        ]
+    },
+    "EXPERIMENT1": {
+        "KNN": {
+            "orig_acc": 0.52522,
+            "fsgm_acc": 0.33638,
+            "pgd_acc": 0.38594
+        },
+        "DT": {
+            "orig_acc": 0.32964,
+            "fsgm_acc": 0.18476,
+            "pgd_acc": 0.21062
+        },
+        "LSVM": {
+            "orig_acc": 0.42742,
+            "fsgm_acc": 0.2538,
+            "pgd_acc": 0.315
+        },
+        "KSVM": {
+            "orig_acc": 0.78038,
+            "fsgm_acc": 0.31908,
+            "pgd_acc": 0.45378
+        },
+        "DATE": "2025-11-22 22:49:44.230055",
+        "DATASETS": [
+            "../Datasets/cifar10-orig-hog-o6-c6-b1.npz",
+            "../Datasets/cifar10-fsgm-hog-eps4-o6-c6-b1.npz",
+            "../Datasets/cifar10-pgd-hog-eps4-o6-c6-b1.npz"
+        ]
+    },
+    "EXPERIMENT2": {
+        "KNN": {
+            "orig_acc": 0.58568,
+            "fsgm_acc": 0.32442,
+            "pgd_acc": 0.40956
+        },
+        "DT": {
+            "orig_acc": 0.37136,
+            "fsgm_acc": 0.23088,
+            "pgd_acc": 0.25602
+        },
+        "LSVM": {
+            "orig_acc": 0.37438,
+            "fsgm_acc": 0.28174,
+            "pgd_acc": 0.3152
+        },
+        "KSVM": {
+            "orig_acc": 0.68828,
+            "fsgm_acc": 0.33336,
+            "pgd_acc": 0.4341
+        },
+        "DATE": "2025-11-22 22:56:45.422723",
+        "DATASETS": [
+            "../Datasets/cifar10-orig-hog-o6-c10-b1.npz",
+            "../Datasets/cifar10-fsgm-hog-eps4-o6-c10-b1.npz",
+            "../Datasets/cifar10-pgd-hog-eps4-o6-c10-b1.npz"
+        ]
+    },
+    "EXPERIMENT3": {
+        "KNN": {
+            "orig_acc": 0.6471,
+            "fsgm_acc": 0.46252,
+            "pgd_acc": 0.5312
+        },
+        "DT": {
+            "orig_acc": 0.39364,
+            "fsgm_acc": 0.22122,
+            "pgd_acc": 0.25616
+        },
+        "LSVM": {
+            "orig_acc": 0.49146,
+            "fsgm_acc": 0.33808,
+            "pgd_acc": 0.40934
+        },
+        "KSVM": {
+            "orig_acc": 0.84792,
+            "fsgm_acc": 0.4773,
+            "pgd_acc": 0.63218
+        },
+        "DATE": "2025-11-22 23:09:39.812914",
+        "DATASETS": [
+            "../Datasets/cifar10-orig-hog-o6-c8-b2.npz",
+            "../Datasets/cifar10-fsgm-hog-eps4-o6-c8-b2.npz",
+            "../Datasets/cifar10-pgd-hog-eps4-o6-c8-b2.npz"
+        ]
+    },
+    "EXPERIMENT4": {
+        "KNN": {
+            "orig_acc": 0.71562,
+            "fsgm_acc": 0.59714,
+            "pgd_acc": 0.65212
+        },
+        "DT": {
+            "orig_acc": 0.41196,
+            "fsgm_acc": 0.20218,
+            "pgd_acc": 0.24702
+        },
+        "LSVM": {
+            "orig_acc": 0.4971,
+            "fsgm_acc": 0.36132,
+            "pgd_acc": 0.42762
+        },
+        "KSVM": {
+            "orig_acc": 0.86234,
+            "fsgm_acc": 0.59798,
+            "pgd_acc": 0.72996
+        },
+        "DATE": "2025-11-22 23:22:46.902319",
+        "DATASETS": [
+            "../Datasets/cifar10-orig-hog-o6-c8-b3.npz",
+            "../Datasets/cifar10-fsgm-hog-eps4-o6-c8-b3.npz",
+            "../Datasets/cifar10-pgd-hog-eps4-o6-c8-b3.npz"
+        ]
+    },
+    "EXPERIMENT5": {
+        "KNN": {
+            "orig_acc": 0.55158,
+            "fsgm_acc": 0.3287,
+            "pgd_acc": 0.3899
+        },
+        "DT": {
+            "orig_acc": 0.35554,
+            "fsgm_acc": 0.21204,
+            "pgd_acc": 0.23512
+        },
+        "LSVM": {
+            "orig_acc": 0.45106,
+            "fsgm_acc": 0.28362,
+            "pgd_acc": 0.34318
+        },
+        "KSVM": {
+            "orig_acc": 0.79312,
+            "fsgm_acc": 0.3683,
+            "pgd_acc": 0.4828
+        },
+        "DATE": "2025-11-22 23:36:20.224705",
+        "DATASETS": [
+            "../Datasets/cifar10-orig-hog-o9-c8-b1.npz",
+            "../Datasets/cifar10-fsgm-hog-eps4-o9-c8-b1.npz",
+            "../Datasets/cifar10-pgd-hog-eps4-o9-c8-b1.npz"
+        ]
+    },
+    "EXPERIMENT6": {
+        "KNN": {
+            "orig_acc": 0.5583,
+            "fsgm_acc": 0.24688,
+            "pgd_acc": 0.34726
+        },
+        "DT": {
+            "orig_acc": 0.34728,
+            "fsgm_acc": 0.20772,
+            "pgd_acc": 0.23482
+        },
+        "LSVM": {
+            "orig_acc": 0.30198,
+            "fsgm_acc": 0.22766,
+            "pgd_acc": 0.24972
+        },
+        "KSVM": {
+            "orig_acc": 0.60106,
+            "fsgm_acc": 0.28362,
+            "pgd_acc": 0.36994
+        },
+        "DATE": "2025-11-22 23:41:01.852271",
+        "DATASETS": [
+            "../Datasets/cifar10-orig-hog-o3-c8-b1.npz",
+            "../Datasets/cifar10-fsgm-hog-eps4-o3-c8-b1.npz",
+            "../Datasets/cifar10-pgd-hog-eps4-o3-c8-b1.npz"
+        ]
+    },
+    "EXPERIMENT7": {
+        "KNN": {
+            "orig_acc": 0.54322,
+            "fsgm_acc": 0.13918,
+            "pgd_acc": 0.25944
+        },
+        "DT": {
+            "orig_acc": 0.35224,
+            "fsgm_acc": 0.14884,
+            "pgd_acc": 0.2001
+        },
+        "LSVM": {
+            "orig_acc": 0.41196,
+            "fsgm_acc": 0.17746,
+            "pgd_acc": 0.27164
+        },
+        "KSVM": {
+            "orig_acc": 0.74328,
+            "fsgm_acc": 0.13178,
+            "pgd_acc": 0.25822
+        },
+        "DATE": "2025-11-22 23:50:53.086295",
+        "DATASETS": [
+            "../Datasets/cifar10-orig-hog-o6-c8-b1.npz",
+            "../Datasets/cifar10-fsgm-hog-eps8-o6-c8-b1.npz",
+            "../Datasets/cifar10-pgd-hog-eps8-o6-c8-b1.npz"
+        ]
+    }
+}
